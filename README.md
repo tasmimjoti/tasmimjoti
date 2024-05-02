@@ -9,7 +9,7 @@
 
 - 💡 Passionate about **Image Processing, Computer Vision, and Graph Neural Networks (GNNs)**
 
-- 🚀 On a quest to use AI solutions to bridge the gap between technology and the biological sciences **technology and the biological sciences**
+- 🚀 On a quest to use AI solutions to bridge the gap between **technology and the biological sciences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
