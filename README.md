@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tasmim Jamal Joti</h1>
 <h3 align="center">A passionate ML enthusiast</h3>
 
+- 🎓 B.Sc. (Engg.) in **ICT, Islamic University**
+
+- 🔎 Looking for **ML and Bioinformatics collaboration**
+
 - 🌱 Venturing into the enthralling frontiers of **AI, ML, and Bioinformatics**
 
-- 📫 How to reach me **tasmimjoti@gmail.com**
+- 💡 Passionate about **Image Processing, Computer Vision, and Graph Neural Networks (GNNs)**
+
+- 🚀 On a quest to use AI solutions to bridge the gap between technology and the biological sciences **technology and the biological sciences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
