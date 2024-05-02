@@ -3,9 +3,9 @@
 
 - 🎓 B.Sc. (Engg.) in **ICT, Islamic University**
 
-- 🔎 Looking for **ML and Bioinformatics collaboration**
-
 - 🌱 Venturing into the enthralling frontiers of **AI, ML, and Bioinformatics**
+
+- 🔎 Open to research work on **ML and Bioinformatics collaboration**
 
 - 💡 Passionate about **Image Processing, Computer Vision, and Graph Neural Networks (GNNs)**
 
